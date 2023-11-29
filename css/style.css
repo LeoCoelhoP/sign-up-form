@@ -200,4 +200,8 @@ label:has(:not(input[type="password"]):user-invalid)::after {
     .button {
         margin-top: 1.5rem;
     }
+
+    .left-container {
+        background-color: rgba(0,0,0,0.3);
+    }
 }
