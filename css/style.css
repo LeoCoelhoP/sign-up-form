@@ -3,7 +3,7 @@ html, body {
 }
 
 body {
-    background-image: url("../images/background.jpg");
+    background-image: url("../images/background.webp");
     background-position:right;
     background-repeat: no-repeat;
     background-size: cover;
